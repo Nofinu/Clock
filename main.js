@@ -5,7 +5,7 @@ let milirestant = date22  - dateNow
 let div = document.querySelector("div")
 
 setInterval(()=>{
-    milirestant-= 113
+    milirestant-= 173
     div.innerText = milirestant
 },113)
 
