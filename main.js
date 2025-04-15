@@ -9,3 +9,9 @@ setInterval(()=>{
     div.innerText = milirestant
 },113)
 
+
+setInterval(()=>{
+    const dateNow2 = Date.now()
+    milirestant = date22  - dateNow2
+},5000)
+
