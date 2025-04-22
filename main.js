@@ -1,4 +1,4 @@
-const date22 = new Date("April 22, 2025 12:00:00").getTime();
+const date22 = new Date("April 22, 2025 11:15:00").getTime();
 const dateNow = Date.now()
 let milirestant = date22  - dateNow
 
